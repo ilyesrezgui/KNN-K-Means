@@ -36,12 +36,5 @@ To use the provided files:
 2. Open `Ilyes_REZGUI_KNN_K-means.ipynb` in a Jupyter Notebook environment.
 3. Follow the structured sections for implementation and analysis.
 
-## Contributors
 
-- [Your Name](https://github.com/ilyesrezgui)
 
-Feel free to contribute by opening issues or submitting pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
